@@ -1,8 +1,2 @@
 This is one.txt file.
-Hello Mrinmoy Karmkoer!
-Hello, Afroza Sultana Munni!
-
-Ahnaf Mustabi
-Mahir Mustaquim
-
-added more text in one.txt file.
+add new line.
